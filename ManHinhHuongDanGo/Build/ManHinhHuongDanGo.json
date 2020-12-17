@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "HCI_02_TocKy_HuongDanGo",
+"productVersion": "0.1",
+"dataUrl": "ManHinhHuongDanGo.data.unityweb",
+"wasmCodeUrl": "ManHinhHuongDanGo.wasm.code.unityweb",
+"wasmFrameworkUrl": "ManHinhHuongDanGo.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.13f1"
+}
